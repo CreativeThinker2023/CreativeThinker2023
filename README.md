@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @CreativeThinker2023
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CreativeThinker2023/CreativeThinker2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <samp>
+    Hi, I'm Yagnik! 👋 <br>
+    🔥 10 Month's Old Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, Typescript ... <br>
+    :email:	yagnikvadi8@gmail.com <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/yagnikvadi20 <br>
+  </samp>
+</p>
